@@ -1,4 +1,4 @@
-# papa-sebas
+# repositorio uno curso de GITHUB
 Primer repo creado en GitHUB
 
 ## descripción
